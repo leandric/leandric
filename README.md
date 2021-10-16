@@ -1,4 +1,4 @@
-# 👋 Olá, sou o Leandro Soares
+# Olá, sou o Leandro Soares 👋
 ### Contato:
 [![SITE](https://img.shields.io/website?label=LScience.com.br&style=for-the-badge&url=https://lscience.com.br)](https://lscience.com.br)
 [![SITE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://lscience.com.br)
