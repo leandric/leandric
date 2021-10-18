@@ -18,12 +18,12 @@
 # Tecnologias e ferramentas que utilizo no dia a dia.
 
 <div style="display: inline_block"><br/>
-    <img align="center" style="border-radius: 50%"  alt="jupyter" width="60" height="60" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2020/08/jupyter.png">
+    <img align="center" alt="jupyter" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
     <img align="center" style="border-radius: 50%"  alt="colab" width="60" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOCjLLoYjhwAcCRmUQuhizj-GvlBBxjfr69Lue-MoVpJl5m2vxecaGYKT_xEfuzqcKoRQ&usqp=CAU">
-    <img align="center" style="border-radius: 50%" alt="python" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-    <img align="center" alt="mysql" width="60" height="60" src="https://www.blogson.com.br/wp-content/uploads/2020/12/logo-mysql-mysql-logo-png-images-are-download-crazypng-211.png">
-    <img align="center" style="border-radius: 50%" alt="sql server" width="60" height="60" src="https://www.dbacorp.com.br/wp-content/uploads/2017/07/microsoft-sql-server-logo.png">
-    <img align="center" style="border-radius: 50%" alt="powerbi" width="60" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOlN8WpnHcnjLf3XYuz3ieuKiKm2KSGoVnJ5otK0B2qoVpddY1gKisjwb6PAVqWl4sQBE&usqp=CAU">
+  <img align="center" width="60" height="60" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
+  <img align="center" alt="mysql" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
+  <img img align="center" alt="sql server" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />  
+    <img align="center" style="border-radius: 50%" alt="powerbi" width="60" height="60" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/LogoBlack.png?raw=true">
     <img align="center" style="border-radius: 50%" alt="tableau" width="60" height="60" src="https://brockdsl.github.io/Tableau-Online-Tutorial/tableau-logo.jpg">
     <img align="center" style="border-radius: 50%" alt="grafana" width="60" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiCvNt0esNv9Uj1_B-X8yvlFx7bjBwSGjHwr6-6eFWXxSgYYJcizc4Ga6mtKpaI_MARNs&usqp=CAU">
     <img align="center" style="border-radius: 50%" alt="qlikview" width="60" height="60" src="https://seekvectorlogo.com/wp-content/uploads/2019/04/qlik-vector-logo-small.png">
