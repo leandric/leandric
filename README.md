@@ -7,11 +7,14 @@
 [![SITE](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://lscience.com.br)
 [![SITE](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://lscience.com.br)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandric&show_icons=true&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandric&layout=compact)](https://github.com/leandric)
+<div align="center">
+  <a href="https://github.com/leandric">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandric&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandric&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
 <br/>
 <br/>
+    
 # Tecnologias e ferramentas que utilizo no dia a dia.
 
 <div style="display: inline_block"><br/>
