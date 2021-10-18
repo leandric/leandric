@@ -1,20 +1,47 @@
-# Olá, sou o Leandro 👋
-### Contato:
-[![SITE](https://img.shields.io/website?label=LScience.com.br&style=for-the-badge&url=https://lscience.com.br)](https://lscience.com.br)
-[![SITE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://lscience.com.br)
-[![SITE](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://lscience.com.br)
-[![SITE](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lscience.com.br)
-[![SITE](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://lscience.com.br)
-[![SITE](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://lscience.com.br)
+# 👋 Olá, sou o Leandro
 
-<div align="center">
+<img align="right" height="130em" src="https://c.tenor.com/F2q8AHyHa4oAAAAM/goku-songoku.gif" />
+
+### Minhas redes e afins:
+<div style="display: inline_block">
+    <span id="SITE">
+        <a href="https://lscience.com.br">
+        <img height="28em" src="https://img.shields.io/website?label=LScience.com.br&style=for-the-badge&url=https://lscience.com.br" />
+    </span>
+    <span id="medium">
+        <a href="https://www.linkedin.com/in/leandro-soares-11b010115/">
+        <img height="28em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    </span>
+    <span id="linkdin">
+        <a href="https://www.linkedin.com/in/leandro-soares-11b010115/">
+        <img height="28em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </span>
+    <span id="Facebook">
+        <a href="https://www.facebook.com/leandroalquimista">
+        <img height="28em" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </span>
+    <span id="youtube">
+        <a href="https://youtube.com.br">
+        <img height="28em" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </span>
+    <span id="instagram">
+        <a href="https://www.instagram.com/leandricp2/">
+        <img height="28em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </span>
+    <span id="twitter">
+        <a href="https://twitter.com/LeandroScientif">
+        <img height="28em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </span>
+</div>
+
+<div align="left">
   <a href="https://github.com/leandric">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandric&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandric&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandric&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandric&layout=compact&langs_count=7&theme=white"/>
 </div>
 <br/>
 <br/>
-    
+
 # Tecnologias e ferramentas que utilizo no dia a dia.
 
 <div style="display: inline_block"><br/>
@@ -29,3 +56,7 @@
     <img align="center" style="border-radius: 50%" alt="qlikview" width="60" height="60" src="https://seekvectorlogo.com/wp-content/uploads/2019/04/qlik-vector-logo-small.png">
     <img align="center" style="border-radius: 50%" alt="office" width="60" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAsfF0BKBerL3z20LEQyiaR24-FiK6HRD5-w&usqp=CAU">
 </div>
+
+
+<img align="center" height="em" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/78d45c5f3ab9c0143350572f23d4fef887859f20/github-contribution-grid-snake.svg" />
+
