@@ -5,37 +5,37 @@
 ### Minhas redes e afins:
 <div style="display: inline_block">
     <span id="SITE">
-        <a href="https://lscience.com.br">
+        <a target="_blank" href="https://lscience.com.br">
         <img height="28em" src="https://img.shields.io/website?label=LScience.com.br&style=for-the-badge&url=https://lscience.com.br" />
     </span>
     <span id="medium">
-        <a href="https://www.linkedin.com/in/leandro-soares-11b010115/">
+        <a target="_blank" href="https://www.linkedin.com/in/leandro-soares-11b010115/">
         <img height="28em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </span>
     <span id="linkdin">
-        <a href="https://www.linkedin.com/in/leandro-soares-11b010115/">
+        <a target="_blank" href="https://www.linkedin.com/in/leandro-soares-11b010115/">
         <img height="28em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </span>
     <span id="Facebook">
-        <a href="https://www.facebook.com/leandroalquimista">
+        <a target="_blank" href="https://www.facebook.com/leandroalquimista">
         <img height="28em" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </span>
     <span id="youtube">
-        <a href="https://youtube.com.br">
+        <a target="_blank" href="https://youtube.com.br">
         <img height="28em" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </span>
     <span id="instagram">
-        <a href="https://www.instagram.com/leandricp2/">
+        <a target="_blank" href="https://www.instagram.com/leandricp2/">
         <img height="28em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </span>
     <span id="twitter">
-        <a href="https://twitter.com/LeandroScientif">
+        <a target="_blank" href="https://twitter.com/LeandroScientif">
         <img height="28em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </span>
 </div>
 
 <div align="left">
-  <a href="https://github.com/leandric">
+  <a target="_blank" href="https://github.com/leandric">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandric&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandric&layout=compact&langs_count=7&theme=white"/>
 </div>
