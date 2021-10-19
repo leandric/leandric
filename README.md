@@ -9,7 +9,7 @@
         <img height="28em" src="https://img.shields.io/website?label=LScience.com.br&style=for-the-badge&url=https://lscience.com.br" />
     </span>
     <span id="medium">
-        <a target="_blank" href="https://www.linkedin.com/in/leandro-soares-11b010115/">
+        <a href="https://medium.com/@leandric" target="_blank">
         <img height="28em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </span>
     <span id="linkdin">
