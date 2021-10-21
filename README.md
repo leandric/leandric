@@ -37,11 +37,12 @@
 <div align="left">
   <a target="_blank" href="https://github.com/leandric">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandric&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandric&layout=compact&langs_count=7&theme=white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandric&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 <br/>
 <br/>
 
+    
 # Tecnologias e ferramentas que utilizo no dia a dia.
 
 <div style="display: inline_block"><br/>
