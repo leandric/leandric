@@ -4,10 +4,6 @@
 
 ### Minhas redes e afins:
 <div style="display: inline_block">
-    <span id="SITE">
-        <a target="_blank" href="https://lscience.com.br">
-        <img height="28em" src="https://img.shields.io/website?label=LScience.com.br&style=for-the-badge&url=https://lscience.com.br" />
-    </span>
     <span id="medium">
         <a href="https://medium.com/@leandric" target="_blank">
         <img height="28em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
@@ -25,7 +21,7 @@
         <img height="28em" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </span>
     <span id="instagram">
-        <a target="_blank" href="https://www.instagram.com/leandricp2/">
+        <a target="_blank" href="https://www.instagram.com/leandrinus/">
         <img height="28em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </span>
     <span id="twitter">
@@ -48,7 +44,9 @@
 <div style="display: inline_block"><br/>
     <img align="center" alt="jupyter" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
     <img align="center" style="border-radius: 50%"  alt="colab" width="60" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOCjLLoYjhwAcCRmUQuhizj-GvlBBxjfr69Lue-MoVpJl5m2vxecaGYKT_xEfuzqcKoRQ&usqp=CAU">
-  <img align="center" width="60" height="60" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
+  <img align="center" width="60" height="60" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" width="60" height="60" alt="Spark" src="https://seeklogo.com/images/A/apache-spark-logo-E141C92C3E-seeklogo.com.png" />
+  <img align="center" alt="mongoDB" width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
   <img align="center" alt="mysql" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
   <img img align="center" alt="sql server" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />  
     <img align="center" style="border-radius: 50%" alt="powerbi" width="60" height="60" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/LogoBlack.png?raw=true">
