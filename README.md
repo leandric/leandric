@@ -42,6 +42,8 @@
 # Tecnologias e ferramentas que utilizo no dia a dia.
 
 <div style="display: inline_block"><br/>
+    <img align="center" alt="debian" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png"/>
+    <img align="center" alt="centos" width="60" height="60" src="https://www.shapeblue.com/wp-content/uploads/2020/10/centos-logo-1-300x300.jpg"/>
     <img align="center" alt="jupyter" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
     <img align="center" style="border-radius: 50%"  alt="colab" width="60" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOCjLLoYjhwAcCRmUQuhizj-GvlBBxjfr69Lue-MoVpJl5m2vxecaGYKT_xEfuzqcKoRQ&usqp=CAU">
   <img align="center" width="60" height="60" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
