@@ -45,8 +45,8 @@
     <img align="center" alt="debian" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png"/>
     <img align="center" alt="ArchLinux" width="60" height="60" src="https://freepngimg.com/download/triangle/58903-icons-kde-theme-computer-linux-arch.png"/>
     <img align="center" alt="centos" width="60" height="60" src="https://www.shapeblue.com/wp-content/uploads/2020/10/centos-logo-1-300x300.jpg"/>
-    <img align="center" alt="jupyter" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
     <img align="center" alt="Orange_Data_mining" width="60" height="60" src="https://yt3.ggpht.com/ytc/AKedOLTl7gjxYJWbK4mxnmJ62Kr0UIR7Q2SCiSqCBnAs=s900-c-k-c0x00ffffff-no-rj" />
+    <img align="center" alt="jupyter" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
     <img align="center" style="border-radius: 50%"  alt="colab" width="60" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOCjLLoYjhwAcCRmUQuhizj-GvlBBxjfr69Lue-MoVpJl5m2vxecaGYKT_xEfuzqcKoRQ&usqp=CAU">
   <img align="center" width="60" height="60" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" width="60" height="60" alt="Spark" src="https://seeklogo.com/images/A/apache-spark-logo-E141C92C3E-seeklogo.com.png" />
