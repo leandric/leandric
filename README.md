@@ -4,18 +4,18 @@
 
 - 💻 Sou analista de Business Intelligence Sênior (Futuro Cientista de Dados🥺)
 - 💻 Atuo com criação de KPIs, dashboards utilizando as ferramentas de mercado, desenvolvimento de relatórios gerenciais, analíticos e financeiros, além do desenvolvimento de procedures/tasks em banco de dados com a finalidade sumarizar informações para as mais diversas demandas analíticas da empresa.
-- 📈 Estou constante processo de aprimoramento, afinal mudar de carreira depois de já esta consolidado no mercado exigem muita diciplina e foco 🤓
-- 📊 Estou tetanto conseguir uma oportunidade como Cientista de Dados para por meus conhecimentos em pratina no ambiente corporativo.
+- 📈 Estou constante processo de aprimoramento, afinal mudar de carreira depois de já estar consolidado no mercado exigem muita diciplina e foco 🤓
+- 📊 Estou tetanto conseguir uma oportunidade como Cientista de Dados para por meus conhecimentos em prática no ambiente corporativo.
 
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/leandro-soares-11b010115/)
 
 <!-- … 
-[<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@cabreirajm)
+[<img align="left" alt=" | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />]()
 -->
 
-[<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/leandrinus/)
+[<img align="left" alt="leandrinus | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/leandrinus/)
 
 
 
