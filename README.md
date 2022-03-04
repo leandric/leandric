@@ -11,9 +11,9 @@
 
 [<img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/leandro-soares-11b010115/)
 
-<!-- … 
-[<img align="left" alt=" | medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />]()
--->
+
+[<img align="left" alt=" | medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@leandric)
+
 
 [<img align="left" alt="leandrinus | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/leandrinus/)
 
@@ -24,6 +24,8 @@
 ### Languages and Tools:
 
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
