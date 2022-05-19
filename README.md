@@ -47,7 +47,7 @@
 
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
 
-<img align="left" width="40px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/LogoBlack.png?raw=true">
+<img align="left" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRASaA5e7K-rIlkZEzzqjNZ2miSn7EUEV-yqRdV1Wj5CjxJk3nqb3aG7ayj_5WEwCuBOg&usqp=CAU">
 
 <img img align="left" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiCvNt0esNv9Uj1_B-X8yvlFx7bjBwSGjHwr6-6eFWXxSgYYJcizc4Ga6mtKpaI_MARNs&usqp=CAU">
 
@@ -60,6 +60,8 @@
 ---
 
 <img align="left" alt="Leandric Github Stats" src="https://github-readme-stats.vercel.app/api?username=leandric&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandric&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- …  [medium]:  -->
 [linkedin]: https://www.linkedin.com/in/leandro-soares-11b010115/
