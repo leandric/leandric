@@ -1,8 +1,8 @@
 ### Leandro S. Silva - [BI and Data Scientist] 👋
 
-## I'm a business intelligence analyst who wants to be a data scientist, and impact business with my models and analysis.
+## I'm a business intelligence analyst.
 
-- 💻 Sou analista de Business Intelligence Sênior (Futuro Cientista de Dados🥺)
+- 💻 Sou analista de Business Intelligence Sênior.
 - 💻 Atuo com criação de KPIs, dashboards utilizando as ferramentas de mercado, desenvolvimento de relatórios gerenciais, analíticos e financeiros, além do desenvolvimento de procedures/tasks em banco de dados com a finalidade sumarizar informações para as mais diversas demandas analíticas da empresa.
 - 📈 Estou constante processo de aprimoramento, afinal mudar de carreira depois de já estar consolidado no mercado exigem muita diciplina e foco 🤓
 - 📊 Estou tetanto conseguir uma oportunidade como Cientista de Dados para por meus conhecimentos em prática no ambiente corporativo.
